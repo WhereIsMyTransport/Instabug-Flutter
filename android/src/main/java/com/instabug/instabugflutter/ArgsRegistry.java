@@ -152,6 +152,7 @@ final class ArgsRegistry {
         args.put("IBGLocale.polish", new Locale(POLISH.getCode(), POLISH.getCountry()));
         args.put("IBGLocale.slovak", new Locale(SLOVAK.getCode(), SLOVAK.getCountry()));
         args.put("IBGLocale.czech", new Locale(CZECH.getCode(), CZECH.getCountry()));
+        args.put("IBGLocale.thai", new Locale("th", "th"));
     }
 
     static void registerCustomTextPlaceHolderKeysArgs(Map<String, Object> args) {

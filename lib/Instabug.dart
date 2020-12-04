@@ -37,7 +37,8 @@ enum IBGLocale {
   turkish,
   indonesian,
   slovak,
-  norwegian
+  norwegian,
+  thai
 }
 
 enum ColorTheme { dark, light }
