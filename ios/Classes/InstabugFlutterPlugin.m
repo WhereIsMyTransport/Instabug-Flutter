@@ -864,6 +864,7 @@ FlutterMethodChannel* channel;
       @"IBGLocale.spanish": @(IBGLocaleSpanish),
       @"IBGLocale.swedish": @(IBGLocaleSwedish),
       @"IBGLocale.turkish": @(IBGLocaleTurkish),
+      @"IBGLocale.thai": @(IBGLocaleThai),
       
       @"CustomTextPlaceHolderKey.shakeHint": kIBGShakeStartAlertTextStringName,
       @"CustomTextPlaceHolderKey.swipeHint": kIBGEdgeSwipeStartAlertTextStringName,
